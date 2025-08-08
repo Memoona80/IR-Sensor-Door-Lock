@@ -19,7 +19,7 @@ An Arduino project using an IR sensor and servo motor to automatically unlock a 
 🎥 [Watch Video Demo](https://drive.google.com/file/d/1_wrAF6gjcXKYd3QSQn3qmNQq483qCz2d/view?usp=drive_link)
 
 ## Code
-See the `.ino` file in this repository
+See the `doorlock.ino` file in this repository
 
 ## What I Learned
 - Servo motor control
